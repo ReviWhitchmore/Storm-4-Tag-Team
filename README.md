@@ -376,7 +376,7 @@ Developing these features requires extensive research, reverse engineering, prog
 
 If you believe in this project and would like to help its development, consider making a voluntary donation.
 
-**❤️ [Support Storm 4 Tag Team on LivePix](https://widget.livepix.gg/embed/576b152a-03a4-4ed7-b3d3-31a43d4abd18)**
+**❤️ [Support Storm 4 Tag Team on LivePix https://livepix.gg/revi
 
 ### 🚀 How Your Support Helps
 
