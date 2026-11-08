@@ -362,3 +362,51 @@ It does not distribute the original game's executable or unauthorized proprietar
 ### 🍥 Storm 4 Tag Team
 
 **Three versus three. Six fighters. One battlefield. Everyone fights at once.**
+## ❤️ Support Storm 4 Tag Team Development
+
+### 🍥 Help Us Bring Simultaneous 3v3 Battles to Naruto Storm 4!
+
+**Storm 4 Tag Team** is an independent, fan-made project dedicated to expanding *Naruto Shippuden: Ultimate Ninja Storm 4* with simultaneous 3v3 battles, improved multiplayer functionality, custom HUD elements, advanced targeting, and AI-controlled fighters.
+
+Developing these features requires extensive research, reverse engineering, programming, testing, and countless hours of work.
+
+**Your support can help us keep improving the project!**
+
+### ☕ Support the Project on LivePix
+
+If you believe in this project and would like to help its development, consider making a voluntary donation.
+
+**❤️ [Support Storm 4 Tag Team on LivePix](https://widget.livepix.gg/embed/576b152a-03a4-4ed7-b3d3-31a43d4abd18)**
+
+### 🚀 How Your Support Helps
+
+Your contributions can help with:
+
+- **Development:** Supporting the time and resources needed to create new features.
+- **Reverse Engineering:** Researching and overcoming technical limitations in Storm 4.
+- **Multiplayer Improvements:** Working toward independent controls for up to six players.
+- **Bug Fixes:** Investigating crashes, improving stability, and optimizing performance.
+- **Testing:** Improving compatibility across different PC configurations.
+- **Future Updates:** Continuing development of the 3v3 combat system, HUD, camera, and lock-on mechanics.
+
+### 🎮 A Free Mod for the Community
+
+**Storm 4 Tag Team is and will remain a free fan-made mod.**
+
+Donations are completely optional and do not grant exclusive access to gameplay features.
+
+Even if you cannot donate, you can still support the project by starring the GitHub repository, reporting bugs, sharing feedback, and spreading the word!
+
+### 💖 Thank You!
+
+Every contribution, no matter how small, is appreciated.
+
+Our goal is to create a new way to experience Naruto Storm 4 and bring the community closer to the dream of fully simultaneous 3v3 battles.
+
+**Six Fighters. Two Teams. One Battlefield.**
+
+*Thank you for supporting Storm 4 Tag Team!*
+
+---
+
+*Disclaimer: Storm 4 Tag Team is an unofficial fan project and is not affiliated with Bandai Namco Entertainment, CyberConnect2, or the Naruto franchise rights holders. Donations support independent development efforts and are not payments for the original game or its intellectual property.*
