@@ -277,25 +277,6 @@ This structure is provisional and will evolve as the project progresses.
 
 ## 🚧 9. Development Roadmap
 
-### Phase 1 — Research and Investigation
-- [ ] Analyze the game's executable.
-- [ ] Investigate fighter management.
-- [ ] Identify active-character limitations.
-- [ ] Study controller input systems.
-- [ ] Document technical findings.
-
-### Phase 2 — Combat Prototype
-- [ ] Spawn an additional active fighter.
-- [ ] Validate independent fighter behavior.
-- [ ] Test collision and damage handling.
-- [ ] Expand to six active fighters.
-- [ ] Implement independent teams.
-
-### Phase 3 — Multiplayer
-- [ ] Implement independent controller inputs.
-- [ ] Assign controllers to fighters.
-- [ ] Integrate AI-controlled fighters.
-- [ ] Test simultaneous 3v3 combat.
 
 ### Phase 4 — Lock-On and Camera
 - [ ] Implement target selection.
