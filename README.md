@@ -67,6 +67,7 @@ remove the mod. Settings live in `storm6.ini` in the game folder (also editable 
 Mod de fã, não oficial, para **NARUTO SHIPPUDEN: Ultimate Ninja STORM 4**: lutas **3 contra 3 com seis lutadores ao
 mesmo tempo**, HUD de seis, câmeras, estilos de lock-on e mecânicas novas. Criado por **Revi Whitchmore**.
 Nenhum arquivo do jogo está incluído. Use somente offline.
+https://livepix.gg/revi
 
 **Compilar:** Visual Studio 2022 Build Tools (MSVC x64), CMake 3.20+ e Ninja. No "x64 Native Tools Command Prompt":
 `cmake -S . -B build -G Ninja -DCMAKE_BUILD_TYPE=Release` e depois `cmake --build build --target storm6`.
